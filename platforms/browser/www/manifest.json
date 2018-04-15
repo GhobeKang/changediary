@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "changediary",
+  "short_name": "changediary",
+  "version": "io.cordova.hellocordova",
+  "description": "A Vue.js project",
+  "icons": [],
+  "start_url": "index.html"
+}
